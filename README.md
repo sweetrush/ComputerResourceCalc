@@ -19,3 +19,7 @@ streamlit run appresourcecalc.py
 
 This will open up the streamlit appliaction in your default browser. 
 
+### Try it now 
+You can also try the app your online now at the following URL:
+[Online ComputerResourceCalc Run it now](https://sweetrush-computerresourcecalc-appresourcecalc-rezmuj.streamlit.app/)
+
