@@ -1,7 +1,7 @@
 # ComputerResourceCalc
  This is an Application that tries to calculate the resourcs requried to run in terms of elements such as storage and ram
 
-[Screen Shot](img/scn001.png)
+![Screen Shot](img/scn001.png)
 
 
 
