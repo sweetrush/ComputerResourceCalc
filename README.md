@@ -5,7 +5,7 @@
 
 
 
- ### How to Run
+ ### How to Run it locally
  Download the application or the python file and then using streamlit run the application. 
 
 - To download streamlit do the following command 
