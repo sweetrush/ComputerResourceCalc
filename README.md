@@ -8,12 +8,12 @@
  Download the application or the python file and then using streamlit run the application. 
 
 - To download streamlit do the following command 
-```sh 
+```bash
 pip install streamlit 
 ```
 
 - To run the appliaction it would be the following command. 
-```sh 
+```bash
 streamlit run appresourcecalc.py
 ```
 

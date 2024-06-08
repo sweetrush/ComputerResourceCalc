@@ -239,6 +239,6 @@ cc1, cc2, cc3 = st.columns([2, 4, 4], gap="small")
 
 cc1.markdown("##### " + green_text("Developed by:"))
 cc2.markdown("[SweetRush Coder - sRC](https://suetenaloia.net)")
-cc3.markdown("[Check out the Project](https://#)")
+cc3.markdown("[Check out the Github-Project](https://github.com/sweetrush/ComputerResourceCalc)")
 
 st.markdown("---", unsafe_allow_html=False)
